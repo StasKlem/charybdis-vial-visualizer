@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.html
+!keymap_template.html
+*.vil
+.DS_Store
